@@ -21,7 +21,7 @@
 
 👀 I’m a **Fullstack Developer** from **Vietnam** 🇻🇳  
 🌱 Interested in **AI, and energing technologies** 
-💞️ Open to collaborate on Web 
+💞️ Open to collaborate on **Web / Mobile projects**  
 ---
 
 ## 🚀 My Tech Stack

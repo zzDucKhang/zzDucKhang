@@ -19,8 +19,9 @@
 
 ## 👋 Glad to see you here!
 
-👀 I’m a **Fullstack Developer** from **Vietnam** 🇻🇳   
-💞️ Open to collaborate on **Web
+👀 I’m a **Fullstack Developer** from **Vietnam** 🇻🇳  
+🌱 Interested in **AI, and energing technologies** 
+💞️ Open to collaborate on Web 
 ---
 
 ## 🚀 My Tech Stack

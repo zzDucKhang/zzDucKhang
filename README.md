@@ -98,7 +98,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/swagger.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/swagger/swagger-original.svg" />
+
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="notion logo"  /> 
 </div>

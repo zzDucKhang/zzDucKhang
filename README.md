@@ -84,7 +84,7 @@
 ### ☁️ DevOps / Cloud
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -98,7 +98,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" height="40" alt="swagger logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="notion logo"  /> 
 </div>

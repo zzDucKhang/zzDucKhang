@@ -88,15 +88,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" height="40" alt="gitlab logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg"
      height="40"
-     alt="github logo"
-     style="filter: invert(1);" />
+     alt="vercel logo"
+     style="fill:white;" />
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-plain.svg"
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
      height="40"
-     alt="vercel logo" />
+     alt="vercel logo"
+     style="filter: invert(1);" />
 </div>
 
 ### 🛠️ Tools

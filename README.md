@@ -80,7 +80,7 @@
 </div>
 
 ### ☁️ DevOps / Cloud
-<<div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
   <img width="12" />
   
@@ -97,9 +97,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white" />
     <img src="https://cdn.simpleicons.org/vercel/black" height="40" alt="vercel logo" />
   </picture>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  
 </div>
 
 ### 🛠️ Tools
